@@ -1,6 +1,6 @@
 # Onboard custom file of Japanese keyboard layout (OADG 109A Full Keyboard)
 
-<img width="2400" height="600" alt="OADG109A_FullKeyboard_Layout" src="https://github.com/user-attachments/assets/0b848684-8c3d-4d78-b865-a2cbbc4bdbec" />
+<img width="2400" height="600" alt="Image" src="https://github.com/user-attachments/assets/b39c2cb6-a4eb-4861-a3f4-fddee9fb2eb0" />
 
 ## :: Description ::
 
