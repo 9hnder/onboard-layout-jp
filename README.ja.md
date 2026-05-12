@@ -1,6 +1,6 @@
 # Onboard カスタムファイル 日本語キーボードレイアウト (OADG 109A Full Keyboard)
 
-<img width="2400" height="416" alt="OADG109A_FullKeyboard_Layout" src="https://github.com/user-attachments/assets/1dbfcc45-b3c9-43d8-bd97-07da28033b94" />
+<img width="1055" height="312" alt="Image" src="https://github.com/user-attachments/assets/a84fe190-90e9-4e02-a569-9b0af0655b25" />
 
 ## :: 概要 ::
 
