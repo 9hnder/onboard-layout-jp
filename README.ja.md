@@ -24,16 +24,16 @@
 ### >> 開発者向け
 
 `git clone` コマンドでこのリポジトリを複製してください。
-`layout` ディレクトリが作られますので、それを Onboard が解釈できる XDG 準拠のディレクトリへ置くだけです。
+`layouts` ディレクトリが作られますので、それを Onboard が解釈できる XDG 準拠のディレクトリへ置くだけです。
 以下のコマンドでユーザーのホーム・ディレクトリにインストールできます:
 
 ```console:
     $ git clone https://github.com/9hnder/onboard-layout-jp.git
-    $ mkdir -p ~/.local/share/onboard/
+    $ mkdir -p ~/.local/share/onboard
     $ cp -r onboard-layout-jp/layouts  ~/.local/share/onboard/
 ```
 
-`theme` ディレクトリについてはデザインのみですので、お好みでどうぞ。
+`themes` ディレクトリについてはデザインのみですので、お好みでどうぞ。
 その場合 `fonts-migmix` フォントパッケージが必要です。もしくは `Nightshade.theme` を適切なフォントに書き換えてください。
 フォントによってはグリフ バックスラッシュ `\` が 円記号 `¥` で表示されたりしますので、明確にそれらが区別できる `MigMix 1M`, `Migu 1M`, `Migu 1C`, `Source Code Pro` などのソースコード用フォントの使用をおすすめします。
 
@@ -42,8 +42,8 @@
 
 ### >> 非開発者向け
 
-1. GitHub の GUI から ZIP ファイルをダウンロードしてください。
-2. ダウンロードされた `onboard-layout-jp-master.zip` を解凍します。
+1. GitHub の Web UI から ZIP ファイルをダウンロードしてください。
+2. ダウンロードされた `onboard-layout-jp-main.zip` を解凍します。
 3. 全てのファイルを `~/.local/share/onboard/` ディレクトリに移動します。
 
 
@@ -103,7 +103,7 @@ neofetch コマンドの結果になります。
 
 ## :: 参考 ::
 
-制作に当たり、以下のWebページを参考にさせていただきました。感謝します。
+製作に当たり、以下のWebページを参考にさせていただきました。感謝します。
 
 [ぼちぼち書くブログ](https://mypace.sasapurin.com/entry/impossible-input-underscore-onboard/)
 
@@ -116,7 +116,7 @@ neofetch コマンドの結果になります。
 
 関連記事は以下で公開しています。
 
-[Qiita ユーザーページ](https://qiita.com/9hnder/)
+[\[Linux Mint\] Onboard のレイアウトを OADG109 日本語キーボードに対応させる #Keyboard - Qiita](https://qiita.com/9hnder/items/ec6efda6a59bcd5b1c1d)
 
 **Sorry, dear foreign friends! Only Japanese articles. DW.**
 
